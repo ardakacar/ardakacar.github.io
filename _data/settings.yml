@@ -7,10 +7,10 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Projects',  url: 'facts'}
-- {name: 'Game Jam Games', url: 'resources'}
-- {name: 'College Projects',       url: 'sample-posts'}
-- {name: 'Other Work',      url: 'documentation'}
+- {name: 'Projects',  url: 'projects'}
+- {name: 'Game Jam Games', url: 'gamejamgames'}
+- {name: 'College Projects',       url: 'college-projects'}
+- {name: 'Other Work',      url: 'other-work'}
 - {name: 'About/CV',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
